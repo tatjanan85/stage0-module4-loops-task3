@@ -9,10 +9,9 @@ public class FibonacciSeries {
                 sum = n1 + n2;
                 n1 = n2;
                 n2 = sum;
+                System.out.println(sum);
             }
         }
-
-        System.out.println(sum);
     }
 
     public static void main(String[] args) {
