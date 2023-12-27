@@ -12,8 +12,4 @@ public class GreatestCommonDivisor {
 
         System.out.println(gcd);
     }
-
-    public static void main(String[] args) {
-        new GreatestCommonDivisor().printGCD(15, 30);
-    }
 }
