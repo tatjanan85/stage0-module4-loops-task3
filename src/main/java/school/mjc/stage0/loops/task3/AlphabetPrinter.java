@@ -6,8 +6,4 @@ public class AlphabetPrinter {
             System.out.println(i);
         }
     }
-
-    public static void main(String[] args) {
-        new AlphabetPrinter().printAlphabet();
-    }
 }

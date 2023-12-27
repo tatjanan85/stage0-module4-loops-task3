@@ -9,8 +9,4 @@ public class NinesSum {
         }
         System.out.println(sum);
     }
-
-    public static void main(String[] args) {
-        new NinesSum().calculateSum(3);
-    }
 }
